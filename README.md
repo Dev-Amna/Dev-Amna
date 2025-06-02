@@ -21,8 +21,8 @@ Hello! I'm **Amna**, a passionate web developer.
 
 ## 📫 How to reach me
 Feel free to connect with me on:
-- Email: your.email@example.com
-- GitHub: [your-github-username](https://github.com/your-github-username)
+- Email: amnaharaf272@gmail.com
+- GitHub: [Dev-Amna](https://github.com/Dev-Amna)
 
 ---
 
