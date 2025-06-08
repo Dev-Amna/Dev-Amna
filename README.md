@@ -12,7 +12,9 @@ Hello! I'm **Amna**, a passionate web developer.
 - HTML5 & CSS3
 - JavaScript (ES6+)
 - Bootstrap
+- Linux          
 - React (learning)
+-❤️ Love the art of coding and always eager to learn new technologies.
 
 ## 🌱 Currently Learning
 - Advanced React concepts
