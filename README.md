@@ -1,5 +1,3 @@
-# About Me
-
 Hello! I'm **Amna**, a passionate web developer.
 
 ## 👩‍💻 About Me
