@@ -1,9 +1,6 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0F0F0F&width=700&lines=%3E+Hello_World();+I'm+Amna+%F0%9F%96%96;%3E+Web+Dev+%7C+Code+Gladiator+%F0%9F%92%AA;%3E+Turning+Coffee+Into+Code+%E2%98%95" alt="Cyberpunk Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=650&lines=root%40amna-dev%3A~%24+./profile.sh;+++++HELLO_WORLD();+++++I'm+AMNA+%F0%9F%96%95;+++++WEB_DEV%7CCODE_GLADIATOR+%F0%9F%92%AA;+++++COFFEE+%3D+%3E+CODE+%E2%98%95;root%40amna-dev%3A~%24+" alt="Terminal Style" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
