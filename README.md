@@ -25,7 +25,6 @@ Driven by curiosity and continuous learning to build better projects every day.
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="30" alt="loading" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=61dafb&width=300&lines=Advanced+React+concepts" alt="Typing Advanced React" />
 </p>
 
