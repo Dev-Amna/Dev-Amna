@@ -6,33 +6,34 @@
 
 ## 👩‍💻 About Me
 
-- Passionate web developer learning **HTML**, **CSS**, **JavaScript** & **React**  
-- Building clean, responsive, user-friendly websites  
-- Always eager to learn and improve  
+I'm a passionate web developer who loves building clean, responsive, and user-friendly websites.  
+I’m currently diving deep into **HTML**, **CSS**, **JavaScript**, and **React** — always eager to learn new tech and improve my skills.  
+Creating projects that challenge me and help me grow is my motivation!
 
 ---
 
 ## 🛠 Skills
 
-- HTML5 & CSS3  
-- JavaScript (ES6+)  
-- Bootstrap  
-- React (learning)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React concepts  
-- Modern JavaScript frameworks  
-- UI/UX best practices  
+![React Badge](https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=white&animation=glow)  
+![JS Frameworks Badge](https://img.shields.io/badge/Modern_JS_Frameworks-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow)  
+![UI/UX Badge](https://img.shields.io/badge/UI_UX_Best_Practices-FF69B4?style=for-the-badge&logo=figma&logoColor=white&animation=glow)
 
 ---
 
 ## 📫 How to reach me
 
-- Email: [amnaharaf272@gmail.com](mailto:amnaharaf272@gmail.com)  
-- GitHub: [Dev-Amna](https://github.com/Dev-Amna)
+[![Email Badge](https://img.shields.io/badge/Email-amnaharaf272@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:amnaharaf272@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Dev--Amna-181717?style=for-the-badge&logo=github&logoColor=white&animation=glow)](https://github.com/Dev-Amna)
 
 ---
 
