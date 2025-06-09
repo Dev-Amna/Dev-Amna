@@ -1,6 +1,8 @@
-# Hi, I'm Amna 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F70000&width=600&lines=Hi,+I'm+Amna+👋;Web+Developer+%7C+Learner)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0F0F0F&width=700&lines=%3E+Hello_World();+I'm+Amna+%F0%9F%96%96;%3E+Web+Dev+%7C+Code+Gladiator+%F0%9F%92%AA;%3E+Turning+Coffee+Into+Code+%E2%98%95" alt="Cyberpunk Typing Intro" />
+</p>
 
 ---
 
