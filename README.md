@@ -1,4 +1,4 @@
-
+# Hi, I'm Amna 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F70000&width=600&lines=Hi,+I'm+Amna+👋;Web+Developer+%7C+Learner)
 
@@ -53,20 +53,8 @@ Driven by curiosity and continuous learning to build better projects every day.
 
 ---
 
-### Fun coding animation
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding animation" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="wave animation" width="50" />
-</p>
-
-<p align="center" style="font-size:18px; font-weight:bold; color:#ff4757;">
-  Thanks for stopping by!  
-  <br />
-  <em>Let's build something amazing together 🚀</em>
+  <span style="font-size:20px; font-weight:700; color:#ff6b81; text-shadow: 0 0 8px #ff6b81;">
+    Let's build something amazing together 🚀
+  </span>
 </p>
