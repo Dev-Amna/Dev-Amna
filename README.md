@@ -1,6 +1,6 @@
 # Hi, I'm Amna 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=900&size=35&random=true&lines=+Hi%2C+I'm+Amna+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F70000&width=600&lines=Hi,+I'm+Amna+👋;Web+Developer+%7C+Learner+%7C+Creator)
 
 ---
 
@@ -36,4 +36,4 @@
 
 ---
 
-*Thank you for visiting my profile!*
+*Thanks for visiting my profile!*
