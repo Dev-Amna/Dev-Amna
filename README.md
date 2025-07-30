@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=500&color=00FFAA&background=121212&width=800&lines=root%40amna-dev%3A~%24+./init.sh;+++++%F0%9F%96%95+AMNA+%3D+WEB+GLADIATOR;+++++%E2%9A%99%EF%B8%8F+COFFEE_DRIVEN_CODER%28%29;+++++%F0%9F%92%BB+TERMINAL_NINJA+%26+VS_CODE_SORCERESS;root%40amna-dev%3A~%24+" alt="Terminal Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=4000&pause=1000&color=00FFAA&background=121212&width=800&lines=Warning%3A+Professional+Goofball+Detected+%F0%9F%A4%A8;console.log(%22Hello+World%22)+%2F%2F+Pls+work;if(amnaCoding)+%7B+pizzaRequired+%3D+true+%7D;404%3A+Seriousness+Not+Found+%F0%9F%98%88" alt="Goofy Terminal">
 </p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
